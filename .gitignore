@@ -1,0 +1,10 @@
+node_modules
+.history
+.vscode
+/public/scripts
+/public/assets
+package-lock.json
+**/*.js.map
+.fake
+.ionide
+/public/app-assets
