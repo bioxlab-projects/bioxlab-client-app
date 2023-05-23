@@ -2,7 +2,7 @@ import MessageService from "./message-service";
 import { MessageType } from "./message-service";
 export const baseAddress: string = "http://127.0.0.1:9000/api";
 export default class Index extends MessageService {
-    public name: string = null;
+    public name: string = "";
     constructor() {
         super();
     }
